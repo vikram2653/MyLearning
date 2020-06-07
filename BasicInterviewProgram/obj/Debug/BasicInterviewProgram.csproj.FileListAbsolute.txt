@@ -1,0 +1,6 @@
+C:\Learning\InterviewPreparation\BasicInterviewProgram\bin\Debug\BasicInterviewProgram.exe.config
+C:\Learning\InterviewPreparation\BasicInterviewProgram\bin\Debug\BasicInterviewProgram.exe
+C:\Learning\InterviewPreparation\BasicInterviewProgram\bin\Debug\BasicInterviewProgram.pdb
+C:\Learning\InterviewPreparation\BasicInterviewProgram\obj\Debug\BasicInterviewProgram.csprojResolveAssemblyReference.cache
+C:\Learning\InterviewPreparation\BasicInterviewProgram\obj\Debug\BasicInterviewProgram.exe
+C:\Learning\InterviewPreparation\BasicInterviewProgram\obj\Debug\BasicInterviewProgram.pdb
